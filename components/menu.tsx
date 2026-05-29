@@ -19,11 +19,11 @@ const locations = [
     mapUrl: "https://maps.google.com/?q=Puertas+del+Tule+792-B+Guadalajara",
   },
   {
-    name: "La Estancia",
-    address: "Av. Patria 500-26, La Estancia, 45530 Zapopan, Jal.",
-    phone: "(33) 3673-2438",
-    icon: Building2,
-    mapUrl: "https://maps.google.com/?q=Av+Patria+500-26+Zapopan",
+    name: "San Juan Bosco",
+    address: "Calle Esteban Loera 546, San Juan Bosco, 44360 Guadalajara, Jal.",
+    phone: "(33) 5106-3260",
+    icon: Church,
+    mapUrl: "https://maps.google.com/?q=Esteban+Loera+546+Guadalajara",
   },
   {
     name: "Italia Providencia",
@@ -40,11 +40,11 @@ const locations = [
     mapUrl: "https://maps.google.com/?q=Ocampo+413+Centro+Guadalajara",
   },
   {
-    name: "San Juan Bosco",
-    address: "Calle Esteban Loera 546, San Juan Bosco, 44360 Guadalajara, Jal.",
-    phone: "(33) 5106-3260",
-    icon: Church,
-    mapUrl: "https://maps.google.com/?q=Esteban+Loera+546+Guadalajara",
+    name: "La Estancia",
+    address: "Av. Patria 500-26, La Estancia, 45530 Zapopan, Jal.",
+    phone: "(33) 3673-2438",
+    icon: Building2,
+    mapUrl: "https://maps.google.com/?q=Av+Patria+500-26+Zapopan",
   },
   {
     name: "Las Aguilas",
