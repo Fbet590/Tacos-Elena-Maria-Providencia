@@ -1,6 +1,6 @@
 import Link from "next/link"
 import Image from "next/image"
-import { Facebook, Instagram, Youtube } from "lucide-react"
+import { Facebook, Instagram } from "lucide-react"
 
 const locations = [
   {
@@ -99,14 +99,6 @@ export function Footer() {
                     aria-label="Instagram"
                   >
                     <Instagram className="w-5 h-5" />
-                  </Link>
-                  <Link 
-                    href="https://youtube.com" 
-                    target="_blank"
-                    className="p-3 bg-secondary-foreground/10 rounded-full hover:bg-primary hover:text-primary-foreground transition-colors"
-                    aria-label="YouTube"
-                  >
-                    <Youtube className="w-5 h-5" />
                   </Link>
                 </div>
               </div>
