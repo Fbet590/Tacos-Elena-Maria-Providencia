@@ -212,7 +212,11 @@ export function Menu() {
                         VER DIRECCION
                       </Button>
                     </Link>
-                    <Link href={`tel:${location.phone.replace(/[^\d+]/g, '')}`} className="w-full">
+                    <Link
+                      href={`https://wa.me/52${location.phone.replace(/\D/g, "")}?text=Hola%2C%20me%20gustar%C3%ADa%20hacer%20un%20pedido`}
+                      target="_blank"
+                      className="w-full"
+                    >
                       <Button 
                         className="w-full bg-primary hover:bg-primary/90 text-primary-foreground rounded-full font-semibold"
                       >
