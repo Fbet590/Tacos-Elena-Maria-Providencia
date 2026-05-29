@@ -1,6 +1,6 @@
 import Link from "next/link"
 import Image from "next/image"
-import { Facebook, Instagram, ShoppingCart } from "lucide-react"
+import { Facebook, Instagram } from "lucide-react"
 
 export function Header() {
   return (
@@ -37,12 +37,9 @@ export function Header() {
             </Link>
           </div>
           
-          {/* Right side - Cart & Social */}
+          {/* Right side - Social */}
           <div className="flex items-center gap-4">
-            <button className="p-2 hover:text-primary transition-colors" aria-label="Carrito">
-              <ShoppingCart className="w-5 h-5" />
-            </button>
-            <div className="hidden sm:flex items-center gap-3">
+            <div className="flex items-center gap-3">
               <Link 
                 href="https://www.facebook.com/tacosmariaelenaprovidencia" 
                 target="_blank"
