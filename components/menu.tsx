@@ -49,7 +49,7 @@ const locations = [
   {
     name: "Las Aguilas",
     address: "Av Sierra de Mazamitla 5010, Las Aguilas, 45080 Zapopan, Jal.",
-    phone: "(33) 6789-0123",
+    phone: "(33) 3686-7003",
     icon: Mountain,
     mapUrl: "https://maps.google.com/?q=Sierra+de+Mazamitla+5010+Zapopan",
   },
