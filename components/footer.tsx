@@ -9,9 +9,9 @@ const locations = [
     city: "Puertas del Tule, 45017 Guadalajara, Jal.",
   },
   {
-    name: "La Estancia",
-    address: "Av. Patria 500-26",
-    city: "La Estancia, 45530 Zapopan, Jal.",
+    name: "San Juan Bosco",
+    address: "Calle Esteban Loera 546",
+    city: "San Juan Bosco, 44360 Guadalajara, Jal.",
   },
   {
     name: "Italia Providencia",
@@ -24,9 +24,9 @@ const locations = [
     city: "Zona Centro, 44100 Guadalajara, Jal.",
   },
   {
-    name: "San Juan Bosco",
-    address: "Calle Esteban Loera 546",
-    city: "San Juan Bosco, 44360 Guadalajara, Jal.",
+    name: "La Estancia",
+    address: "Av. Patria 500-26",
+    city: "La Estancia, 45530 Zapopan, Jal.",
   },
   {
     name: "Las Aguilas",
