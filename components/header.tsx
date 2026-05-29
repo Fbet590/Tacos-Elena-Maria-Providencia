@@ -44,7 +44,7 @@ export function Header() {
             </button>
             <div className="hidden sm:flex items-center gap-3">
               <Link 
-                href="https://facebook.com" 
+                href="https://www.facebook.com/tacosmariaelenaprovidencia" 
                 target="_blank"
                 className="text-muted-foreground hover:text-foreground transition-colors"
                 aria-label="Facebook"
@@ -52,7 +52,7 @@ export function Header() {
                 <Facebook className="w-5 h-5" />
               </Link>
               <Link 
-                href="https://instagram.com" 
+                href="https://www.instagram.com/tacosmariaelena_provi?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" 
                 target="_blank"
                 className="text-muted-foreground hover:text-foreground transition-colors"
                 aria-label="Instagram"
